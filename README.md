@@ -1,4 +1,4 @@
-# QLDiemSinhVien
+# Quản lý điểm sinh viên
  
 I. TỔNG QUAN ĐỀ TÀI
 1. Khảo sát hiện trạng
